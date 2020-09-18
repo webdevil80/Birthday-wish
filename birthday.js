@@ -23,7 +23,7 @@ function draw(){
    } 
    textSize(30)
    textAlign(CENTER)
-   text("Happy Birthday\nJayasree",width/2,height/2)    
+   text("Happy Birthday\nBirthday celebrity name here",width/2,height/2)    
 }
 function particle(x,y,col,firework){
     this.opacity = 255;
